@@ -1,0 +1,10 @@
+C:\Users\usuario\Desktop\Nueva carpeta\C#prueba\Tutorial4-login\bin\Debug\Tutorial4-login.exe.config
+C:\Users\usuario\Desktop\Nueva carpeta\C#prueba\Tutorial4-login\obj\Debug\Tutorial4-login.exe
+C:\Users\usuario\Desktop\Nueva carpeta\C#prueba\Tutorial4-login\obj\Debug\Tutorial4-login.pdb
+C:\Users\usuario\Desktop\Nueva carpeta\C#prueba\Tutorial4-login\obj\Debug\Tutorial4_login.Properties.Resources.resources
+C:\Users\usuario\Desktop\Nueva carpeta\C#prueba\Tutorial4-login\obj\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Nueva carpeta\C#prueba\Tutorial4-login\obj\Debug\Tutorial4_login.Form1.resources
+C:\Users\usuario\Desktop\Nueva carpeta\C#prueba\Tutorial4-login\obj\Debug\login.Principal.resources
+C:\Users\usuario\Desktop\Nueva carpeta\C#prueba\Tutorial4-login\obj\Debug\login.Form3.resources
+C:\Users\usuario\Desktop\Nueva carpeta\C#prueba\Tutorial4-login\bin\Debug\Tutorial4-login.exe
+C:\Users\usuario\Desktop\Nueva carpeta\C#prueba\Tutorial4-login\bin\Debug\Tutorial4-login.pdb

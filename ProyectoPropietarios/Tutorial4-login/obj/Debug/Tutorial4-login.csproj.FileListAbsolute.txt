@@ -1,0 +1,62 @@
+C:\Users\ç\Desktop\Tuto4\Source\Tutorial4-login\Tutorial4-login\bin\Debug\Tutorial4-login.exe.config
+C:\Users\ç\Desktop\Tuto4\Source\Tutorial4-login\Tutorial4-login\bin\Debug\Tutorial4-login.exe
+C:\Users\ç\Desktop\Tuto4\Source\Tutorial4-login\Tutorial4-login\bin\Debug\Tutorial4-login.pdb
+C:\Users\ç\Desktop\Tuto4\Source\Tutorial4-login\Tutorial4-login\obj\Debug\Tutorial4_login.Form1.resources
+C:\Users\ç\Desktop\Tuto4\Source\Tutorial4-login\Tutorial4-login\obj\Debug\Tutorial4_login.Form2.resources
+C:\Users\ç\Desktop\Tuto4\Source\Tutorial4-login\Tutorial4-login\obj\Debug\Tutorial4_login.Form3.resources
+C:\Users\ç\Desktop\Tuto4\Source\Tutorial4-login\Tutorial4-login\obj\Debug\Tutorial4_login.Opciones.resources
+C:\Users\ç\Desktop\Tuto4\Source\Tutorial4-login\Tutorial4-login\obj\Debug\Tutorial4_login.Principal.resources
+C:\Users\ç\Desktop\Tuto4\Source\Tutorial4-login\Tutorial4-login\obj\Debug\Tutorial4_login.Properties.Resources.resources
+C:\Users\ç\Desktop\Tuto4\Source\Tutorial4-login\Tutorial4-login\obj\Debug\Tutorial4-login.csproj.GenerateResource.Cache
+C:\Users\ç\Desktop\Tuto4\Source\Tutorial4-login\Tutorial4-login\obj\Debug\Tutorial4-login.exe
+C:\Users\ç\Desktop\Tuto4\Source\Tutorial4-login\Tutorial4-login\obj\Debug\Tutorial4-login.pdb
+C:\Users\ç\Desktop\Tuto4\Source\C#\Tutorial4-login\bin\Debug\Tutorial4-login.exe.config
+C:\Users\ç\Desktop\Tuto4\Source\C#\Tutorial4-login\obj\Debug\Tutorial4-login.exe
+C:\Users\ç\Desktop\Tuto4\Source\C#\Tutorial4-login\obj\Debug\Tutorial4-login.pdb
+C:\Users\ç\Desktop\Tuto4\Source\C#\Tutorial4-login\bin\Debug\Tutorial4-login.exe
+C:\Users\ç\Desktop\Tuto4\Source\C#\Tutorial4-login\bin\Debug\Tutorial4-login.pdb
+C:\Users\ç\Desktop\Tuto4\Source\C#\Tutorial4-login\obj\Debug\Tutorial4-login.csprojResolveAssemblyReference.cache
+C:\Users\ç\Desktop\Tuto4\Source\C#\Tutorial4-login\obj\Debug\Tutorial4_login.Form1.resources
+C:\Users\ç\Desktop\Tuto4\Source\C#\Tutorial4-login\obj\Debug\Tutorial4_login.Form2.resources
+C:\Users\ç\Desktop\Tuto4\Source\C#\Tutorial4-login\obj\Debug\Tutorial4_login.Form3.resources
+C:\Users\ç\Desktop\Tuto4\Source\C#\Tutorial4-login\obj\Debug\Tutorial4_login.Opciones.resources
+C:\Users\ç\Desktop\Tuto4\Source\C#\Tutorial4-login\obj\Debug\Tutorial4_login.Principal.resources
+C:\Users\ç\Desktop\Tuto4\Source\C#\Tutorial4-login\obj\Debug\Tutorial4_login.Properties.Resources.resources
+C:\Users\ç\Desktop\Tuto4\Source\C#\Tutorial4-login\obj\Debug\Tutorial4-login.csproj.GenerateResource.Cache
+C:\Users\ç\Desktop\Tutorial 4 Login by ThesoftTeam\Código Fuente\C#\Tutorial4-login\bin\Debug\Tutorial4-login.exe.config
+C:\Users\ç\Desktop\Tutorial 4 Login by ThesoftTeam\Código Fuente\C#\Tutorial4-login\obj\Debug\Tutorial4-login.exe
+C:\Users\ç\Desktop\Tutorial 4 Login by ThesoftTeam\Código Fuente\C#\Tutorial4-login\obj\Debug\Tutorial4-login.pdb
+C:\Users\ç\Desktop\Tutorial 4 Login by ThesoftTeam\Código Fuente\C#\Tutorial4-login\bin\Debug\Tutorial4-login.exe
+C:\Users\ç\Desktop\Tutorial 4 Login by ThesoftTeam\Código Fuente\C#\Tutorial4-login\bin\Debug\Tutorial4-login.pdb
+C:\Users\ç\Desktop\Tutorial 4 Login by ThesoftTeam\Código Fuente\C#\Tutorial4-login\obj\Debug\Tutorial4-login.csprojResolveAssemblyReference.cache
+C:\Users\ç\Desktop\Tutorial 4 Login by ThesoftTeam\Código Fuente\C#\Tutorial4-login\obj\Debug\Tutorial4_login.Form1.resources
+C:\Users\ç\Desktop\Tutorial 4 Login by ThesoftTeam\Código Fuente\C#\Tutorial4-login\obj\Debug\Tutorial4_login.Form2.resources
+C:\Users\ç\Desktop\Tutorial 4 Login by ThesoftTeam\Código Fuente\C#\Tutorial4-login\obj\Debug\Tutorial4_login.Form3.resources
+C:\Users\ç\Desktop\Tutorial 4 Login by ThesoftTeam\Código Fuente\C#\Tutorial4-login\obj\Debug\Tutorial4_login.Opciones.resources
+C:\Users\ç\Desktop\Tutorial 4 Login by ThesoftTeam\Código Fuente\C#\Tutorial4-login\obj\Debug\Tutorial4_login.Principal.resources
+C:\Users\ç\Desktop\Tutorial 4 Login by ThesoftTeam\Código Fuente\C#\Tutorial4-login\obj\Debug\Tutorial4_login.Properties.Resources.resources
+C:\Users\ç\Desktop\Tutorial 4 Login by ThesoftTeam\Código Fuente\C#\Tutorial4-login\obj\Debug\Tutorial4-login.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\C#\Tutorial4-login\bin\Debug\Tutorial4-login.exe.config
+C:\Users\usuario\Desktop\C#\Tutorial4-login\obj\Debug\Tutorial4-login.exe
+C:\Users\usuario\Desktop\C#\Tutorial4-login\obj\Debug\Tutorial4-login.pdb
+C:\Users\usuario\Desktop\C#\Tutorial4-login\bin\Debug\Tutorial4-login.exe
+C:\Users\usuario\Desktop\C#\Tutorial4-login\bin\Debug\Tutorial4-login.pdb
+C:\Users\usuario\Desktop\C#\Tutorial4-login\obj\Debug\Tutorial4-login.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\C#\Tutorial4-login\obj\Debug\Tutorial4_login.Form1.resources
+C:\Users\usuario\Desktop\C#\Tutorial4-login\obj\Debug\Tutorial4_login.Form2.resources
+C:\Users\usuario\Desktop\C#\Tutorial4-login\obj\Debug\Tutorial4_login.Form3.resources
+C:\Users\usuario\Desktop\C#\Tutorial4-login\obj\Debug\Tutorial4_login.Opciones.resources
+C:\Users\usuario\Desktop\C#\Tutorial4-login\obj\Debug\Tutorial4_login.Principal.resources
+C:\Users\usuario\Desktop\C#\Tutorial4-login\obj\Debug\Tutorial4_login.Properties.Resources.resources
+C:\Users\usuario\Desktop\C#\Tutorial4-login\obj\Debug\Tutorial4-login.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Nueva carpeta\C#prueba\Tutorial4-login\bin\Debug\Tutorial4-login.exe.config
+C:\Users\usuario\Desktop\Nueva carpeta\C#prueba\Tutorial4-login\obj\Debug\Tutorial4-login.exe
+C:\Users\usuario\Desktop\Nueva carpeta\C#prueba\Tutorial4-login\obj\Debug\Tutorial4-login.pdb
+C:\Users\usuario\Desktop\Nueva carpeta\C#prueba\Tutorial4-login\obj\Debug\Tutorial4-login.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Nueva carpeta\C#prueba\Tutorial4-login\obj\Debug\Tutorial4_login.Form1.resources
+C:\Users\usuario\Desktop\Nueva carpeta\C#prueba\Tutorial4-login\obj\Debug\Tutorial4_login.Form3.resources
+C:\Users\usuario\Desktop\Nueva carpeta\C#prueba\Tutorial4-login\obj\Debug\Tutorial4_login.Principal.resources
+C:\Users\usuario\Desktop\Nueva carpeta\C#prueba\Tutorial4-login\obj\Debug\Tutorial4_login.Properties.Resources.resources
+C:\Users\usuario\Desktop\Nueva carpeta\C#prueba\Tutorial4-login\obj\Debug\Tutorial4-login.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Nueva carpeta\C#prueba\Tutorial4-login\bin\Debug\Tutorial4-login.exe
+C:\Users\usuario\Desktop\Nueva carpeta\C#prueba\Tutorial4-login\bin\Debug\Tutorial4-login.pdb
