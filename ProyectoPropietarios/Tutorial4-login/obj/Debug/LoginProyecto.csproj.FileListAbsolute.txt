@@ -25,3 +25,12 @@ C:\Users\usuario\Desktop\Propietarios\ProyectoPropietarios\ProyectoPropietarios\
 C:\Users\usuario\Desktop\Propietarios\ProyectoPropietarios\ProyectoPropietarios\Tutorial4-login\obj\Debug\login.Form3.resources
 C:\Users\usuario\Desktop\Propietarios\ProyectoPropietarios\ProyectoPropietarios\Tutorial4-login\obj\Debug\Tutorial4_login.Properties.Resources.resources
 C:\Users\usuario\Desktop\Propietarios\ProyectoPropietarios\ProyectoPropietarios\Tutorial4-login\obj\Debug\LoginProyecto.csproj.GenerateResource.Cache
+D:\Github\ProyectoPropietarios\ProyectoPropietarios\Tutorial4-login\bin\Debug\Tutorial4-login.exe.config
+D:\Github\ProyectoPropietarios\ProyectoPropietarios\Tutorial4-login\obj\Debug\Tutorial4-login.exe
+D:\Github\ProyectoPropietarios\ProyectoPropietarios\Tutorial4-login\obj\Debug\Tutorial4-login.pdb
+D:\Github\ProyectoPropietarios\ProyectoPropietarios\Tutorial4-login\bin\Debug\Tutorial4-login.exe
+D:\Github\ProyectoPropietarios\ProyectoPropietarios\Tutorial4-login\bin\Debug\Tutorial4-login.pdb
+D:\Github\ProyectoPropietarios\ProyectoPropietarios\Tutorial4-login\obj\Debug\LoginProyecto.csprojResolveAssemblyReference.cache
+D:\Github\ProyectoPropietarios\ProyectoPropietarios\Tutorial4-login\obj\Debug\login.Form3.resources
+D:\Github\ProyectoPropietarios\ProyectoPropietarios\Tutorial4-login\obj\Debug\Tutorial4_login.Properties.Resources.resources
+D:\Github\ProyectoPropietarios\ProyectoPropietarios\Tutorial4-login\obj\Debug\LoginProyecto.csproj.GenerateResource.Cache
