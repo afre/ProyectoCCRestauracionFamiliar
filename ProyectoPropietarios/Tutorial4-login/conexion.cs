@@ -24,7 +24,7 @@ namespace Tutorial4_login
         {
            
 
-                this.cadenaconexion = ("Data Source=LEONARDO;Initial Catalog = IgRestauraciónFamiliar; integrated security=true");
+                this.cadenaconexion = ("Data Source=DESKTOP-54H7VQA\root; Initial Catalog = CCRestaracionFamiliar; integrated security=true");
                 this.cnn = new SqlConnection(this.cadenaconexion);
 
             

@@ -9,7 +9,13 @@ public class Catalogo
 {
     public int idCatalogo;
 
-    private String nombreCatalogo;
+    private String _nombreCatalogo;
+
+    public String nombreCatalogo
+    {
+        get { return _nombreCatalogo; }
+        set { _nombreCatalogo = value; }
+    }
 
     public IList<Object> crearCatalogo()
     {

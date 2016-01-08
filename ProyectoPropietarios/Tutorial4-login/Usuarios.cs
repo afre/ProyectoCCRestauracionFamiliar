@@ -10,34 +10,49 @@ namespace Tutorial4_login
 {
     class Usuarios:conexion
     {
-        private string usuario;
-        private string contraseña;
+        private string _nombreUsuario;
+        private string _passwordUsuario;
         //private string modo;
         
         
         public Usuarios()
         {
-            usuario = string.Empty;
-            contraseña = string.Empty;
+            _nombreUsuario = string.Empty;
+            _passwordUsuario = string.Empty;
             this.sql = string.Empty;
         }
-        public string Usuario
+        public string NombreUsuario
         {
-            get { return this.usuario; }
-            set { this.usuario = value; }
+            get { return this._nombreUsuario; }
+            set { this._nombreUsuario = value; }
 
         }
-        public string Contraseña
+        public string PasswordUsuario
         {
-            get { return this.contraseña; }
-            set { this.contraseña = value; }
+            get { return this._passwordUsuario; }
+            set { this._passwordUsuario = value; }
 
+        }
+
+        public IList<Object> crearUsuario()
+        {
+            return null;
+        }
+
+        public IList<Object> consultarUsuario()
+        {
+            return null;
+        }
+
+        public IList<Object> modificarUsuario()
+        {
+            return null;
         }
 
         public bool Buscar()
         {
             bool Resultado = false;
-            this.sql = string.Format(@"SELECT IDUSUARIO FROM USUARIO WHERE  NOMBREUSUARIO='{0}' AND  PASSWORDUSUARIO='{1}'", this.usuario, this.contraseña);
+            this.sql = string.Format(@"SELECT IDUSUARIO FROM USUARIO WHERE  NOMBREUSUARIO='{0}' AND  PASSWORDUSUARIO='{1}'", this._nombreUsuario, this._passwordUsuario);
             this.comandosql = new SqlCommand(this.sql, this.cnn);
             try{
 

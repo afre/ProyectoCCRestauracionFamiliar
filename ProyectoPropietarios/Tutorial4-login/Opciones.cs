@@ -5,9 +5,19 @@ public class Opciones
 {
 	public int idOpciones;
 
-	private IList<Object> nombreOpciones;
+    //private String nombreOpciones;
 
-	public IList<Object> crearOpciones()
+    private String _nombreOpciones;
+    
+
+    public String NombreOpciones
+    {
+        get { return _nombreOpciones; }
+        set { _nombreOpciones = value; }
+    }
+    
+
+    public IList<Object> crearOpciones()
 	{
 		return null;
 	}

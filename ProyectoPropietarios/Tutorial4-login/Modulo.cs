@@ -12,35 +12,49 @@ namespace Tutorial4_login
     class Modulo : conexion
     {
         public bool Resultado1;
-        private string modulo;
+        private String _nombreModulo;
         //private string contraseña;
         //private string modo;
 
 
         public Modulo()
         {
-            modulo = string.Empty;
+            NombreModulo = string.Empty;
             //contraseña = string.Empty;
             this.sql = string.Empty;
         }
         public string Modulos
         {
-            get { return this.modulo; }
-            set { this.modulo = value; }
+            get { return this.NombreModulo; }
+            set { this.NombreModulo = value; }
 
         }
+
+        public string NombreModulo
+        {
+            get
+            {
+                return _nombreModulo;
+            }
+
+            set
+            {
+                _nombreModulo = value;
+            }
+        }
+
         //public string Contraseña
         //{
-           // get { return this.contraseña; }
-         //   set { this.contraseña = value; }
+        // get { return this.contraseña; }
+        //   set { this.contraseña = value; }
 
-       // }
+        // }
         //public bool Llena()
         //{
-          
-         //   return Resultado1;
-       // }
-        
+
+        //   return Resultado1;
+        // }
+
         public void llenarItems(ComboBox cb)
         {
 
@@ -57,12 +71,12 @@ namespace Tutorial4_login
             }
             try
             {
-                comandosql = new SqlCommand("Select NOMBREMODULO from MODULO", cnn);
+                comandosql = new SqlCommand("Select nombreModulo from MODULO", cnn);
                 dr = comandosql.ExecuteReader();
                 cb.Items.Add("Seleccione una Opción");
                 while (dr.Read())
                 {
-                    cb.Items.Add(dr["NOMBREMODULO"].ToString());
+                    cb.Items.Add(dr["nombreModulo"].ToString());
                 }
 
                 cb.SelectedIndex = 0;

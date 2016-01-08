@@ -147,8 +147,8 @@ namespace login
             Usuarios UsuarioOb = new Usuarios();
             Modulo ModuloOb = new Modulo();
 
-            UsuarioOb.Usuario = this.txt1.Text;
-            UsuarioOb.Contraseña = this.txt2.Text;
+            UsuarioOb.NombreUsuario = this.txt1.Text;
+            UsuarioOb.PasswordUsuario = this.txt2.Text;
 
             if (UsuarioOb.Buscar() == true && ModuloOb.Resultado1 == true && txt2.Text.Trim() == "")
             {

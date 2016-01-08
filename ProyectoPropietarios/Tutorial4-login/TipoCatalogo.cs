@@ -1,23 +1,32 @@
-using java.lang;
-using java.util;
+using System;
+using System.Collections.Generic;
 
 public class TipoCatalogo
 {
 	public int idTipoCatalogo;
 
-	private String nombreTipoCatalogo;
+    
+    private string _nombreTipoCatalogo;
 
-	public Vector crearTipoCatalogo()
+    public string nombreTipoCatalogo
+    {
+        get { return _nombreTipoCatalogo; }
+        set { _nombreTipoCatalogo = value; }
+    }
+
+
+
+    public IList<Object> crearTipoCatalogo()
 	{
 		return null;
 	}
 
-	public Vector consultarTipoCatalogo()
+	public IList<Object> consultarTipoCatalogo()
 	{
 		return null;
 	}
 
-	public Vector modificarTipoCatalogo()
+	public IList<Object> modificarTipoCatalogo()
 	{
 		return null;
 	}
