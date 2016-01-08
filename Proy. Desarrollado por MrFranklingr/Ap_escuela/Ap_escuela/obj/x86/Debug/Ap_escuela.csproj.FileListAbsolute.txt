@@ -57,3 +57,15 @@ F:\Escuela Politécnica Nacional\QuintoSemestre\AplicacionesAmbientesPropietario
 F:\Escuela Politécnica Nacional\QuintoSemestre\AplicacionesAmbientesPropietarios\Proy. Desarrollado por MrFranklingr\Ap_escuela\Ap_escuela\obj\x86\Debug\Ap_escuela.Registro_Usuarios.resources
 F:\Escuela Politécnica Nacional\QuintoSemestre\AplicacionesAmbientesPropietarios\Proy. Desarrollado por MrFranklingr\Ap_escuela\Ap_escuela\obj\x86\Debug\Ap_escuela.csproj.GenerateResource.Cache
 F:\Escuela Politécnica Nacional\QuintoSemestre\AplicacionesAmbientesPropietarios\Proy. Desarrollado por MrFranklingr\Ap_escuela\Ap_escuela\obj\x86\Debug\Ap_escuela.Form2.resources
+D:\Github\ProyectoPropietarios\Proy. Desarrollado por MrFranklingr\Ap_escuela\Ap_escuela\obj\x86\Debug\Ap_escuela.exe
+D:\Github\ProyectoPropietarios\Proy. Desarrollado por MrFranklingr\Ap_escuela\Ap_escuela\obj\x86\Debug\Ap_escuela.pdb
+D:\Github\ProyectoPropietarios\Proy. Desarrollado por MrFranklingr\Ap_escuela\Ap_escuela\bin\Debug\Ap_escuela.exe
+D:\Github\ProyectoPropietarios\Proy. Desarrollado por MrFranklingr\Ap_escuela\Ap_escuela\bin\Debug\Ap_escuela.pdb
+D:\Github\ProyectoPropietarios\Proy. Desarrollado por MrFranklingr\Ap_escuela\Ap_escuela\obj\x86\Debug\Ap_escuela.csprojResolveAssemblyReference.cache
+D:\Github\ProyectoPropietarios\Proy. Desarrollado por MrFranklingr\Ap_escuela\Ap_escuela\obj\x86\Debug\Ap_escuela.Autentificacion.resources
+D:\Github\ProyectoPropietarios\Proy. Desarrollado por MrFranklingr\Ap_escuela\Ap_escuela\obj\x86\Debug\Ap_escuela.Buscar.resources
+D:\Github\ProyectoPropietarios\Proy. Desarrollado por MrFranklingr\Ap_escuela\Ap_escuela\obj\x86\Debug\Ap_escuela.Form1.resources
+D:\Github\ProyectoPropietarios\Proy. Desarrollado por MrFranklingr\Ap_escuela\Ap_escuela\obj\x86\Debug\Ap_escuela.Form2.resources
+D:\Github\ProyectoPropietarios\Proy. Desarrollado por MrFranklingr\Ap_escuela\Ap_escuela\obj\x86\Debug\Ap_escuela.Properties.Resources.resources
+D:\Github\ProyectoPropietarios\Proy. Desarrollado por MrFranklingr\Ap_escuela\Ap_escuela\obj\x86\Debug\Ap_escuela.Registro_Usuarios.resources
+D:\Github\ProyectoPropietarios\Proy. Desarrollado por MrFranklingr\Ap_escuela\Ap_escuela\obj\x86\Debug\Ap_escuela.csproj.GenerateResource.Cache

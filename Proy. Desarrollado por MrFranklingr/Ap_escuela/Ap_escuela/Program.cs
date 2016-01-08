@@ -16,6 +16,7 @@ namespace Ap_escuela
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Autentificacion());
+            
         }
     }
 }

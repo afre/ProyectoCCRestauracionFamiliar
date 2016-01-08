@@ -5,6 +5,7 @@ using System.Text;
 using System.Data.SqlClient;
 using System.Windows.Forms;
 using System.Data;
+using System.Diagnostics;
 
 namespace Ap_escuela
 {
@@ -18,20 +19,28 @@ namespace Ap_escuela
                 int resultado = 0;
                
                     SqlConnection Conn = BDComun.ObtnerCOnexion();
-             try
-            {
-               SqlCommand Comando = new SqlCommand(string.Format("Insert Into Usuario (idUsuario, nombreUsuario, passwordUsuario,idPersona ) values ({0},{1}, PwdEncrypt({2}),{3} )", int.Parse(textBox1), pUsuario, pContraseña, int.Parse(textBox2)), Conn);
+
+            SqlCommand Comando = new SqlCommand(string.Format("Insert Into Usuario (idUsuario, nombreUsuario, passwordUsuario,idPersona ) values ({0},'{1}','{2}',{3} )", pUsuario, pContraseña, textBox1, textBox2), Conn);
+            // SqlCommand Comando = new SqlCommand(string.Format("Insert Into Usuario (idUsuario, nombreUsuario, passwordUsuario,idPersona ) values (textBox1.Text,'Jun', '123',textBox2.Text )", pUsuario, pContraseña), Conn);
+            // SqlDataAdapter writter = Comando.ExecuteReader();
+            Console.WriteLine("esperemos que valga");
+            resultado = Comando.ExecuteNonQuery();
+            Conn.Close();
+
+            /*try
+           {
+              SqlCommand Comando = new SqlCommand(string.Format("Insert Into Usuario (idUsuario, nombreUsuario, passwordUsuario,idPersona ) values ({0},{1}, PwdEncrypt({2}),{3} )", int.Parse(textBox1), pUsuario, pContraseña, int.Parse(textBox2)), Conn);
                // SqlCommand Comando = new SqlCommand(string.Format("Insert Into Usuario (idUsuario, nombreUsuario, passwordUsuario,idPersona ) values (textBox1.Text,'Jun', '123',textBox2.Text )", pUsuario, pContraseña), Conn);
-              // SqlDataAdapter writter = Comando.ExecuteReader();
+               // SqlDataAdapter writter = Comando.ExecuteReader();
+               Console.WriteLine("esperemos que valga");
+               resultado = Comando.ExecuteNonQuery();
+               Conn.Close();
+            }*/
 
-                resultado = Comando.ExecuteNonQuery();
-                Conn.Close();
-             }
-                 
-            catch{
+            // catch{
 
-            }
-             return resultado;
+            // }
+            return resultado;
             }
 
 
