@@ -23,7 +23,6 @@ namespace Ap_escuela
             SqlCommand Comando = new SqlCommand(string.Format("Insert Into Usuario (idUsuario, nombreUsuario, passwordUsuario,idPersona ) values ({0},'{1}','{2}',{3} )", pUsuario, pContraseña, textBox1, textBox2), Conn);
             // SqlCommand Comando = new SqlCommand(string.Format("Insert Into Usuario (idUsuario, nombreUsuario, passwordUsuario,idPersona ) values (textBox1.Text,'Jun', '123',textBox2.Text )", pUsuario, pContraseña), Conn);
             // SqlDataAdapter writter = Comando.ExecuteReader();
-            Console.WriteLine("esperemos que valga");
             resultado = Comando.ExecuteNonQuery();
             Conn.Close();
 
@@ -32,7 +31,6 @@ namespace Ap_escuela
               SqlCommand Comando = new SqlCommand(string.Format("Insert Into Usuario (idUsuario, nombreUsuario, passwordUsuario,idPersona ) values ({0},{1}, PwdEncrypt({2}),{3} )", int.Parse(textBox1), pUsuario, pContraseña, int.Parse(textBox2)), Conn);
                // SqlCommand Comando = new SqlCommand(string.Format("Insert Into Usuario (idUsuario, nombreUsuario, passwordUsuario,idPersona ) values (textBox1.Text,'Jun', '123',textBox2.Text )", pUsuario, pContraseña), Conn);
                // SqlDataAdapter writter = Comando.ExecuteReader();
-               Console.WriteLine("esperemos que valga");
                resultado = Comando.ExecuteNonQuery();
                Conn.Close();
             }*/
