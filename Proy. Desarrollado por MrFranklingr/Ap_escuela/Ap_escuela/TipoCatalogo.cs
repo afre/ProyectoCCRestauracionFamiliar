@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-public class TipoCatalogo
+public class Usuario
 {
 	public int idTipoCatalogo;
 

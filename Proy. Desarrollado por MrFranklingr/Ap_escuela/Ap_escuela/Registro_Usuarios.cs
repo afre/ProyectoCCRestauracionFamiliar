@@ -25,7 +25,7 @@ namespace Ap_escuela
                     MessageBox.Show("Cuenta Creada con exito");
                 }
                 else
-                    Console.WriteLine("no entiendo");
+
                     MessageBox.Show("No se pudo crear la cuenta");
             
             }
